@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="nao_data" type="scan_xsens.py" name="nao_data3" output="screen">
+	</node>
+</launch>

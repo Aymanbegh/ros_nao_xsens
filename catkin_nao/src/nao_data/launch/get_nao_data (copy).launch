@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="nao_data" type="get_nao_data.py" name="nao_data" output="screen">
+	</node>
+</launch>

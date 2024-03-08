@@ -1,0 +1,9 @@
+float64 angle_x
+float64 angle_y
+float64 angle_z
+float64 gyroscope_x
+float64 gyroscope_y
+float64 gyroscope_z
+float64 acceleration_x
+float64 acceleration_y
+float64 acceleration_z

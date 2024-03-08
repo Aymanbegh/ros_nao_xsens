@@ -1,0 +1,6 @@
+<launch>
+	<node pkg="nao_data" type="get_image_nao.py" name="nao_data" output="screen">
+	</node>
+	<node pkg="nao_data" type="get_back_image_nao.py" name="nao_data1" output="screen">
+	</node>
+</launch>

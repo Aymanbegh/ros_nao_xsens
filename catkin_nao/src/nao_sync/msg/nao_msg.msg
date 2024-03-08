@@ -1,0 +1,26 @@
+Header header
+float64 angle_x
+float64 angle_y
+float64 angle_z
+float64 gyroscope_x
+float64 gyroscope_y
+float64 gyroscope_z
+float64 acceleration_x
+float64 acceleration_y
+float64 acceleration_z
+float64 H_yaw
+float64 H_pitch
+float64 LS_pitch
+float64 LS_roll
+float64 RS_pitch
+float64 RS_roll
+float64 LE_yaw
+float64 LE_roll
+float64 RE_yaw
+float64 RE_roll
+float64 LH_roll
+float64 LH_pitch
+float64 LH_yawpitch
+float64 RH_roll
+float64 RH_pitch
+

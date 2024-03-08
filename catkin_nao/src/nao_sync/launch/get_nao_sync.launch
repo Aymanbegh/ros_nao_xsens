@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="nao_sync" type="get_nao_xsens_data_sync.py" name="nao_sync" output="screen">
+	</node>
+</launch>
